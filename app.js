@@ -2,7 +2,7 @@
 'use strict';
 (function () {
     // Variables Start
-    const IPIFY_API = 'at_VA2TbBaBOg4XUmDsvdKM0eLwQqMko'
+    const IPIFY_API = 'at_8KG5SxRLrl1co48cYEnMz0ObNRrK2'
     const MAP_API = 'pk.eyJ1IjoibG9haW1hc3JpIiwiYSI6ImNrd2dudWtiZzBxNmYzMXBtOGYxYm1jY24ifQ.s90TP5x2nJhNbPUW25ixNw'
     const IP1 = qs('#IP')
     const Locations = qs('#Location')
